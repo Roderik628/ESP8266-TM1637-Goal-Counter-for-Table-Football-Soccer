@@ -6,6 +6,8 @@ Controller for an Arduino based Automatic Gate Slider
 Modified the code from Mr. Morgenthaler (http://oszt.ch/projekt-automatischer-torzaehler-fuer-tischkicker/) to work with ESP8266 and TM1637 display. (maybe even with ESP32 if the pins are configured accordingly) 
   
 <img src="/display.jpg">
+
+
 ## Things used in this project 
 - ESP8266 x1
 - DC5V Infrared Beam Sensor x2		https://www.aliexpress.com/item/4000264402274.html?spm=a2g0o.order_list.order_list_main.131.6f7c1802ionLN1
