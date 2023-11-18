@@ -28,3 +28,5 @@ The display can´t show the colon symbol when there isnt a grater number then 0 
 
 ## code
 Install TM1637 library by Avishay Orpaz  (https://github.com/avishorp/TM1637)
+
+https://github.com/Roderik628/ESP8266-TM1637-Goal-Counter-for-Table-Football-Soccer/blob/e1b069ad7dda86bd175c4e2eb9a5251f3075e6a3/ESP8266_TM1637_Goal_Counter_for_Table_Football_Soccer.ino#L1
