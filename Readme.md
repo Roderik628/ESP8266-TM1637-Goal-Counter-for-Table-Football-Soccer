@@ -20,6 +20,8 @@ Modified the code from Mr. Morgenthaler (http://oszt.ch/projekt-automatischer-to
 ## Modification
 The display can´t show the colon symbol when there isnt a grater number then 0 so i had to modifiy the display with a jumper resistor on the seven segment display. I used a 220Ω smd resistor so the colon symbol is turned on.
 <img src="/displaycolonmod.jpg">
+
+
 ## Connection
 
 <img src="/circuit.png">
