@@ -1,9 +1,10 @@
+
 # ESP8266 TM1637 Goal Counter for Table Football Soccer
 Controller for an Arduino based Automatic Gate Slider
 
-## Background
-This project was started becasue I needed a digital goal counter for my table football.  
-
+## Desciption
+Modified the code from Mr. Morgenthaler ( http://oszt.ch/projekt-automatischer-torzaehler-fuer-tischkicker/ ) to work with ESP8266 and TM1637 display. (maybe even with ESP32 if the pins are configured accordingly) 
+  
 
 ## Things used in this project 
 - ESP8266 x1
