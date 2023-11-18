@@ -19,6 +19,7 @@ Modified the code from Mr. Morgenthaler (http://oszt.ch/projekt-automatischer-to
 
 ## Modification
 The display can´t show the colon symbol when there isnt a grater number then 0 so i had to modifiy the display with a jumper resistor on the seven segment display. I used a 220Ω smd resistor so the colon symbol is turned on.
+
 <img src="/displaycolonmod.jpg">
 
 
@@ -26,7 +27,8 @@ The display can´t show the colon symbol when there isnt a grater number then 0 
 
 <img src="/circuit.png">
 
-## code
+
+## Code
 Install TM1637 library by Avishay Orpaz  (https://github.com/avishorp/TM1637)
 
 https://github.com/Roderik628/ESP8266-TM1637-Goal-Counter-for-Table-Football-Soccer/blob/17a256faa47086d9d18fe71d838a9a448668ef0f/ESP8266_TM1637_Goal_Counter_for_Table_Football_Soccer.ino#L1-L167
